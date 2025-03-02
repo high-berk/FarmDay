@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13932881b5b51fd4f8e34d082fd0e1bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - housePrefab: {fileID: 8871183137755833260, guid: 7ce121a0d4d8b824c92c815be6146c97,
+      type: 3}
+  - farmPrefab: {fileID: 3731273001413037312, guid: 338d4ebb49e9a264c941742eeb234592,
+      type: 3}
+  - validMat: {fileID: 2100000, guid: 5e0f2ac3a97e41e45866b62f88a7b65d, type: 2}
+  - invalidMat: {fileID: 2100000, guid: 38f0a8fc5d2dcd8419a6c6e6b6c8596c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
